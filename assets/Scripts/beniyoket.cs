@@ -9,7 +9,7 @@ public class beniyoket : MonoBehaviour
     void Start()
     {
         Destroy(gameObject, lifeTime);
-        // belli sbir süre zarfından sonra kodun üzerinde bulunduğu game objesi kendisini yok edecektir.    
+        // belli bir süre zarfından sonra kodun üzerinde bulunduğu game objesi kendisini yok edecektir.    
     }
     
     void Update()
