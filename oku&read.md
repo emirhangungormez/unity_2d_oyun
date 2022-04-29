@@ -9,7 +9,7 @@ fonksiyonlar da kod entagrasyonları sayesinde edinilmiştir. Sahne geçişleri 
 
 -------
 
-From a ready-made downloadable game with the "free platform game entity" package from the unity entity store.
+• From a ready-made downloadable game with the "free platform game entity" package from the unity entity store.
 Basic movements such as walking, running, jumping, shooting were added and made with code.
 Ss simple as damaging the enemy, taking damage from the enemy, destroying the enemy, seeing the number of
 destroyed enemies on the screen functions have also been acquired through code integrations.
